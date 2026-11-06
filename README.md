@@ -126,9 +126,15 @@ Every hackathon has been an opportunity to collaborate, test ideas quickly, lear
 
 ## Developer Philosophy
 
-> “My enemies are many, but my equals are none.”
+> **“I may lose the battle, but I will never leave the battlefield.”**
 
-**Learn continuously. Build consistently. Accept failures. Improve with every challenge. Never stop progressing.**
+Failure is not a reason to quit; it is a reason to come back stronger. Every hackathon teaches me something new, whether I win or lose. I do not participate only to win; I participate to learn, build, compete, and improve.
+
+Losing one competition does not mean losing the journey. I will return to every challenge with more knowledge, better skills, and greater determination. I believe consistency, resilience, and courage matter more than temporary victories.
+
+<div align="center">
+  <strong>“I don't fear losing. I fear giving up.<br />No matter how many times I fall, I will rise, rebuild, and enter the battlefield again.”</strong>
+</div>
 
 ## Let's Connect
 
